@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andrea Cedeño 👋
 
-### 👩‍💻 Ingeniera de Software | Especialista en Analítica de Datos, BBDD y QA
+### 👩‍💻 Ingeniera de Software | Especialista en Aseguramiento de la Calidad, BBDD y Analisis de Datos
 
 <br>
 
