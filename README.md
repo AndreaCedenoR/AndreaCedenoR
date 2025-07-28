@@ -80,7 +80,7 @@ Mi fortaleza radica en mi habilidad para ver el "big picture". No solo desarroll
 
 He complementado mi formación con certificaciones profesionales que validan mis habilidades en áreas clave de la Inteligencia Artificial y la Ciencia de Datos.
 
-- <img src="https://img.shields.io/badge/IBM-0062FF?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/> **Getting Started with Artificial Intelligence** - *(https://www.credly.com/badges/26dbb7e5-ca87-40b4-ae28-ca3ee6e57c9e)*
+- <img src="https://img.shields.io/badge/IBM-0062FF?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/> **Getting Started with Artificial Intelligence** - *[Ver Credencial](https://www.credly.com/badges/26dbb7e5-ca87-40b4-ae28-ca3ee6e57c9e)*
 ---
 
 ### 📊 Mis Estadísticas en GitHub
@@ -89,7 +89,7 @@ He complementado mi formación con certificaciones profesionales que validan mis
   <img src="https://github-readme-stats.vercel.app/api?username=AndreaCedenoR&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Andrea en GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCedenoR&layout=compact&theme=radical&hide_border=true&hide=jupyter" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCedenoR&layout=compact&theme=radical&hide_border=true&hide=jupyter&cache_seconds=3600" alt="Lenguajes más usados" />
 </p>
 
 ---
