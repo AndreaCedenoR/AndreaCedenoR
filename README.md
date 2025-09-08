@@ -89,7 +89,7 @@ He complementado mi formación con certificaciones profesionales que validan mis
   <img src="https://github-readme-stats.vercel.app/api?username=AndreaCedenoR&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Andrea en GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCedenoR&layout=compact&theme=radical&hide_border=true&hide=jupyter&cache_seconds=3600" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCedenoR&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&cache_seconds=3600" alt="Lenguajes más usados" />
 </p>
 
 ---
