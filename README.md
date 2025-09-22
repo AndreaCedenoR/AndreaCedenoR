@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andrea Cedeño 👋
 
-### 👩‍💻 Ingeniera de Software | Especialista en Aseguramiento de la Calidad, BBDD y Analisis de Datos
+### 👩‍💻 Ingeniera de Software | Desarrolladora Full Stack, Especialista en Aseguramiento de la Calidad, BBDD y Automatización
 
 <br>
 
@@ -37,32 +37,64 @@ Mi fortaleza radica en mi habilidad para ver el "big picture". No solo desarroll
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Desarrollo Frontend en CapData.es</h3>
+      <h3 align="center">Centralizador de Datos Global - Glopy</h3>
       <div align="center">
-        <p>Participación clave en el desarrollo frontend de <strong><a href="https://capdata.es/">CapData.es</a></strong>, una plataforma de IA para la gestión de datos. Mis contribuciones incluyen:</p>
+        <p>Colaboración en el desarrollo de <strong><a href="https://glopy.app/">Glopy</a></strong>, una plataforma diseñada para centralizar información sobre tecnología, inmobiliaria y vehículos a nivel mundial. Mis aportes se centraron en:</p>
         <ul>
-          <li><strong>Módulo de Transcripción IA:</strong> Desarrollo de la interfaz para servicios de transcripción de audio a texto.</li>
-          <li><strong>Integración con AVSIS:</strong> Conexión del frontend con sistemas de gestión de avisos y reservas.</li>
-          <li><strong>Chatbots Inteligentes:</strong> Colaboración en la creación de interfaces de chat para la captura de reservas y atención al cliente.</li>
-          <li><strong>Diseño de BD y Reportes:</strong> Participación en el modelado de la base de datos y generación de reportes visuales.</li>
+          <li><strong>Web Scraping con IA:</strong> Desarrollo del sistema de recolección automática de datos de múltiples fuentes.</li>
+          <li><strong>Procesamiento de Datos:</strong> Implementación de IA para extraer, limpiar y estructurar la información pertinente de los productos.</li>
+          <li><strong>Base de Datos Unificada:</strong> Participación en el diseño y creación de la base de datos centralizada que alimenta la plataforma.</li>
         </ul>
-        <p><strong>Tecnologías:</strong> Angular, TypeScript, Node.js, PostgreSQL.</p>
-        <a href="https://capdata.es/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Ver Proyecto"/>
+        <p><strong>Tecnologías:</strong> Python, Inteligencia Artificial, Web Scraping, PostgreSQL.</p>
+        <a href="https://glopy.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-00BFFF?style=for-the-badge&logo=glitch&logoColor=white" alt="Ver Proyecto"/>
         </a>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">App Móvil para Gestión de Grúas</h3>
-      <div align="center">
-        <p>Desarrollo del frontend para una aplicación móvil de gestión de servicios de grúas. Se implementó el flujo completo de la aplicación, con una arquitectura lista para ser integrada con cualquier API RESTful.</p>
-        <p>El código está diseñado con funciones desacopladas para conectar fácilmente los servicios de backend, gestionando la autenticación, visualización de servicios y comunicación en tiempo real.</p>
-        <p><strong>Tecnologías:</strong> React Native, Expo, JavaScript.</p>
-        <br>
-        <a href="https://github.com/AndreaCedenoR/gruas-mobile-front" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/>
-        </a>
-      </div>
+    <h3 align="center">Extensión de Chrome: Capturador de Reservas</h3>
+    <div align="center">
+    <p>Desarrollo de una extensión de Chrome para uso interno en <strong>CapData</strong>, destinada a optimizar la gestión de viajes. La herramienta utiliza IA para leer y organizar automáticamente las reservas de vuelos.</p>
+    <ul>
+    <li><strong>Captura Inteligente:</strong> Lectura y estructuración de datos de reservas directamente desde la página web.</li>
+    <li><strong>Centralización Automática:</strong> Almacenamiento de la información en la base de datos, vinculada al perfil del viajero.</li>
+    <li><strong>Integración con Calendario:</strong> Sincronización de los itinerarios con el calendario del usuario para fácil acceso.</li>
+    </ul>
+    <p><strong>Tecnologías:</strong> JavaScript, TypeScript, IA, Chrome Web APIs.</p>
+    <a href="https://chromewebstore.google.com/detail/capturador-de-reservas-ca/ogijlcipnnoldbogcbjbmlagaiapagie" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_en_Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en Chrome Store"/>
+    </a>
+    </div>
+    </td>
+    </tr>
+    <tr>
+    <td width="50%">
+    <h3 align="center">Desarrollo Frontend en CapData.es</h3>
+    <div align="center">
+    <p>Participación clave en el desarrollo frontend de <strong><a href="https://capdata.es/">CapData.es</a></strong>, una plataforma de IA para la gestión de datos. Mis contribuciones incluyen:</p>
+    <ul>
+    <li><strong>Módulo de Transcripción IA:</strong> Desarrollo de la interfaz para servicios de transcripción de audio a texto.</li>
+    <li><strong>Integración con AVSIS:</strong> Conexión del frontend con sistemas de gestión de avisos y reservas.</li>
+    <li><strong>Chatbots Inteligentes:</strong> Colaboración en la creación de interfaces de chat para la captura de reservas y atención al cliente.</li>
+    <li><strong>Diseño de BD y Reportes:</strong> Participación en el modelado de la base de datos y generación de reportes visuales.</li>
+    </ul>
+    <p><strong>Tecnologías:</strong> Angular, TypeScript, Node.js, PostgreSQL.</p>
+    <a href="https://capdata.es/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Proyecto-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Ver Proyecto"/>
+    </a>
+    </div>
+    </td>
+    <td width="50%">
+    <h3 align="center">App Móvil para Gestión de Grúas</h3>
+    <div align="center">
+    <p>Desarrollo del frontend para una aplicación móvil de gestión de servicios de grúas. Se implementó el flujo completo de la aplicación, con una arquitectura lista para ser integrada con cualquier API RESTful.</p>
+    <p>El código está diseñado con funciones desacopladas para conectar fácilmente los servicios de backend, gestionando la autenticación, visualización de servicios y comunicación en tiempo real.</p>
+    <p><strong>Tecnologías:</strong> React Native, Expo, JavaScript.</p>
+    <br>
+    <a href="https://github.com/AndreaCedenoR/gruas-mobile-front" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/>
+    </a>
+    </div>
     </td>
   </tr>
 </table>
