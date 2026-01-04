@@ -97,6 +97,29 @@ Mi fortaleza radica en mi habilidad para ver el "big picture". No solo desarroll
     </div>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">PanaAPI - Virtualizador de Servicios (Sandbox)</h3>
+      <div align="center">
+        <p>Herramienta de <strong>Service Virtualization</strong> diseñada para eliminar la dependencia de proveedores externos durante las fases de desarrollo y automatización de pruebas (QA).</p>
+        <div align="left" style="padding: 0 20px;">
+          <ul>
+            <li><strong>Soporte Multi-Protocolo:</strong> Implementación híbrida que maneja tanto servicios <strong>REST</strong> como <strong>SOAP</strong>, anticipando cualquier estándar de integración.</li>
+            <li><strong>Cerebro de Escenarios:</strong> Lógica centralizada para simular respuestas exitosas, errores de autenticación, fallos de formato y validaciones de negocio en tiempo real.</li>
+            <li><strong>Arquitectura High-Speed:</strong> Desarrollado con React + Vite para el frontend y Express para el motor de virtualización, desplegado de forma escalable en Vercel.</li>
+          </ul>
+        </div>
+        <p><strong>Tecnologías:</strong> React, TypeScript, Node.js, Express, Vercel.</p>
+        <a href="https://pana-api.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/AndreaCedenoR/venezuelan-api-sandbox" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ### 🧠 Proyectos de Inteligencia Artificial y Machine Learning
