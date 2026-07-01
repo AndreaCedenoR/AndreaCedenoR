@@ -98,22 +98,35 @@ Mi fortaleza radica en mi habilidad para ver el "big picture". No solo desarroll
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3 align="center">PanaAPI - Virtualizador de Servicios (Sandbox)</h3>
+    <td width="50%">
+      <h3 align="center">Wesworth Electric - AI Procurement Bot</h3>
       <div align="center">
-        <p>Herramienta de <strong>Service Virtualization</strong> diseñada para eliminar la dependencia de proveedores externos durante las fases de desarrollo y automatización de pruebas (QA).</p>
-        <div align="left" style="padding: 0 20px;">
-          <ul>
-            <li><strong>Soporte Multi-Protocolo:</strong> Implementación híbrida que maneja tanto servicios <strong>REST</strong> como <strong>SOAP</strong>, anticipando cualquier estándar de integración.</li>
-            <li><strong>Cerebro de Escenarios:</strong> Lógica centralizada para simular respuestas exitosas, errores de autenticación, fallos de formato y validaciones de negocio en tiempo real.</li>
-            <li><strong>Arquitectura High-Speed:</strong> Desarrollado con React + Vite para el frontend y Express para el motor de virtualización, desplegado de forma escalable en Vercel.</li>
-          </ul>
-        </div>
+        <p>Solución <strong>End-to-End</strong> para optimizar compras en obra mediante WhatsApp + IA, eliminando la carga administrativa en campo.</p>
+        <ul align="left">
+          <li><strong>Asistente WhatsApp:</strong> Procesa audio/texto con IA para generar POs automáticas en ConnectWise Manage.</li>
+          <li><strong>Panel Administrativo:</strong> Hub en tiempo real para auditoría de órdenes y gestión de sesiones con React 19.</li>
+          <li><strong>Bridge de Integración:</strong> Conector personalizado para manejar MFA y automatizar el flujo del ERP.</li>
+        </ul>
+        <p><strong>Tecnologías:</strong> React 19, TanStack Start, Supabase, IA (LLMs), ERP API.</p>
+        <a href="https://wesworth-electric-bot.lovable.app/login" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="Ver Proyecto"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">PanaAPI - Service Virtualization</h3>
+      <div align="center">
+        <p>Herramienta de <strong>Sandbox</strong> para eliminar la dependencia de proveedores externos durante el desarrollo y pruebas (QA).</p>
+        <ul align="left">
+          <li><strong>Multi-Protocolo:</strong> Soporte híbrido para servicios REST y SOAP en una misma implementación.</li>
+          <li><strong>Cerebro de Escenarios:</strong> Simulación de respuestas de negocio, errores de auth y validaciones en tiempo real.</li>
+          <li><strong>Arquitectura:</strong> Motor de virtualización de alta velocidad desplegado de forma escalable.</li>
+        </ul>
         <p><strong>Tecnologías:</strong> React, TypeScript, Node.js, Express, Vercel.</p>
         <a href="https://pana-api.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
         </a>
-        &nbsp;&nbsp;
+        &nbsp;
         <a href="https://github.com/AndreaCedenoR/venezuelan-api-sandbox" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/>
         </a>
