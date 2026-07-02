@@ -69,13 +69,12 @@ Mi fortaleza radica en mi habilidad para ver el "big picture". No solo desarroll
     </tr>
     <tr>
     <td width="50%">
-    <h3 align="center">Desarrollo Frontend en CapData.es</h3>
+    <h3 align="center">Desarrollo Full Stack en CapData.es</h3>
     <div align="center">
-    <p>Participación clave en el desarrollo frontend de <strong><a href="https://capdata.es/">CapData.es</a></strong>, una plataforma de IA para la gestión de datos. Mis contribuciones incluyen:</p>
+    <p>Participación clave en el desarrollo de <strong><a href="https://capdata.es/">CapData.es</a></strong>, una plataforma de IA para la gestión de datos. Mis contribuciones incluyen:</p>
     <ul>
-    <li><strong>Módulo de Transcripción IA:</strong> Desarrollo de la interfaz para servicios de transcripción de audio a texto.</li>
-    <li><strong>Integración con AVSIS:</strong> Conexión del frontend con sistemas de gestión de avisos y reservas.</li>
-    <li><strong>Chatbots Inteligentes:</strong> Colaboración en la creación de interfaces de chat para la captura de reservas y atención al cliente.</li>
+    <li><strong>Módulos de Transcripción IA:</strong> Desarrollo de servicios de transcripción de imagen a texto.</li>
+    <li><strong>Chatbots Inteligentes:</strong> Creación de interfaces de chat para la captura de reservas y atención al cliente.</li>
     <li><strong>Diseño de BD y Reportes:</strong> Participación en el modelado de la base de datos y generación de reportes visuales.</li>
     </ul>
     <p><strong>Tecnologías:</strong> Angular, TypeScript, Node.js, PostgreSQL.</p>
