@@ -8,6 +8,12 @@ Soy una **Ingeniera en Informática** apasionada por construir soluciones de sof
 
 Mi fortaleza radica en mi habilidad para ver el "big picture". No solo desarrollo aplicaciones robustas, sino que también me aseguro de que se construyan sobre una base de datos eficiente, que su calidad sea impecable y que los datos que generan se transformen en decisiones de negocio inteligentes.
 
+<p align="center">
+  <a href="https://www.andreacedenoreis.com" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_mi_portafolio-1B2437?style=for-the-badge" alt="Portafolio"/>
+  </a>
+</p>
+
 ---
 
 ### 🔧 Mi Stack Tecnológico
@@ -166,6 +172,10 @@ He complementado mi formación con certificaciones profesionales que validan mis
 <p align="center">
   <a href="https://www.linkedin.com/in/andrea-reis-cedeno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.andreacedenoreis.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-1B2437?style=for-the-badge" alt="Portafolio"/>
   </a>
     
   <a href="mailto:andrea.reis.cedeno@gmail.com">
